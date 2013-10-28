@@ -1,0 +1,5 @@
+static/thumbnails/*.jpg
+static/thumbnails/*.png
+__cache.txt
+contact.php
+config.php
